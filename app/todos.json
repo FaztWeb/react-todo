@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "task": "make a React Tutorial",
+      "isCompleted": false
+    },
+    {
+      "task": "eat dinner",
+      "isCompleted": false
+    }
+  ]
+}
